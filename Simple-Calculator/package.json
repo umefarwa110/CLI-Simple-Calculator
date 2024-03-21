@@ -1,0 +1,19 @@
+{
+  "name": "a786-simple-calculator-by-umefarwa",
+  "version": "1.0.5",
+  "description": "A Simple Calculator with Typescript, Node.js & Inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "UmeFarwa",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
